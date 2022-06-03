@@ -2,6 +2,6 @@
 
 - Um contador em JavaScript com botões de -1 e +1
 
-# Acesse:
+## Acesse:
 
 - https://joaooowdev.github.io/ContadorJS/
